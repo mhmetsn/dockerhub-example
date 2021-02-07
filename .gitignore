@@ -1,0 +1,10 @@
+Dockerfile.local
+*.py[cod]
+.idea/*
+.pytest_cache
+*cache*/
+__pycache__/
+!**/__pycache__/
+*pytest_cache*/
+.pytest_cache/
+**pytest_cache/
